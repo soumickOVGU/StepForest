@@ -15,3 +15,6 @@ The source codes of these 3rd party toolboxes/codes are uploaded under the 'Tool
 The research was performed by Rupali Khatun.
 This work was initially perfromed in the Electronics and Communication Sciences Unit (ECSU), Indian Statistical Institute (ISI), Kolkata in association with the Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI) at Indian Statistical Institue (ISI), under the supervision of  Mr. Angshuman Paul (Senior Research Fellow, Electronics and Communication Sciences Unit, Indian Statistical Institute, Kolkata) and Dr. Abhishek Roy (Former H.O.D, Amity Institute of Information Technology (AIIT), Amity University, Kolkata).
 Later on, this was updated, finalized and presented at the 2018 IEEE 8th International Advance Computing Conference (IACC 2018) under the supervision of Mr. Soumick Chatterjee (Research Fellow, Otto-von-Guericke University, Magdeburg, Germany)
+
+The paper has been published with DOI: 10.1109/IADCC.2018.8692135
+Preprint available at : https://arxiv.org/abs/1905.08611
