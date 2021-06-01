@@ -29,7 +29,7 @@ If you like this repository, please click on Star!
 
 If you use this approach in your research or use codes from this repository, please cite the following in your publications:
 
-> [Rupali Khatun, Soumick Chatterjee: Machine learning approach for segmenting glands in colon histology images using local intensity and texture features (arXiv:2103.09203, IACC Dec 2019)](https://arxiv.org/abs/1905.08611)
+> [Rupali Khatun, Soumick Chatterjee: Machine learning approach for segmenting glands in colon histology images using local intensity and texture features (IACC Dec 2019)](https://arxiv.org/abs/1905.08611)
 
 BibTeX entry:
 
