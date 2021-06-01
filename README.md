@@ -2,8 +2,11 @@
 StepForest:  Machine learning approach for segmenting glands in colon histology images using local intensity and texture features
 
 Official code for the paper: Machine learning approach for segmenting glands in colon histology images using local intensity and texture features
+
 The paper has been published with DOI: 10.1109/IADCC.2018.8692135
+
 Preprint available at : https://arxiv.org/abs/1905.08611
+
 
 A machine learning based Image Segmentation alrorithm, created for glands segmentation in colon histology images, can be modified for other image segmentation problems.
 This algorithm uses a novel hierarchical random forest apporach, where 3 levels of random forest beeen used for better segmentation.
